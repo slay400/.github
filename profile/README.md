@@ -1,6 +1,6 @@
-# slay400
-
-**RPG slay: turn your IBM i programs into REST, async and AI-ready APIs.**
+<p align="center">
+  <img src="slay400-banner.svg" alt="slay400. RPG slay: turn your IBM i programs into REST, async and AI-ready APIs." width="100%">
+</p>
 
 slay400 turns RPG programs on IBM i (AS/400) into managed APIs, straight from the PCML your compiler already produces. No rewrite, no hand-written wrappers: the program stays where it is and as it is.
 
